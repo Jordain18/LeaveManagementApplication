@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj": {}
+    "c:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj": {
+    "c:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj",
+        "projectUniqueName": "c:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj",
         "projectName": "LeaveManagementApplication.web",
-        "projectPath": "C:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj",
+        "projectPath": "c:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\LeaveManagementApplication.web.csproj",
         "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\obj\\",
+        "outputPath": "c:\\Users\\jorda\\Desktop\\Projects\\LeaveManagementApplication\\LeaveManagementApplication.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorda\\AppData\\Roaming\\NuGet\\NuGet.Config"

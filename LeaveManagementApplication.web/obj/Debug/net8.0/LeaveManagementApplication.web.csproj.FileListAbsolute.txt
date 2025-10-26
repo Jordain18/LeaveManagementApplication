@@ -28,3 +28,4 @@ c:\Users\jorda\Desktop\Projects\LeaveManagementApplication\LeaveManagementApplic
 c:\Users\jorda\Desktop\Projects\LeaveManagementApplication\LeaveManagementApplication.web\obj\Debug\net8.0\LeaveManagementApplication.web.pdb
 c:\Users\jorda\Desktop\Projects\LeaveManagementApplication\LeaveManagementApplication.web\obj\Debug\net8.0\LeaveManagementApplication.web.genruntimeconfig.cache
 c:\Users\jorda\Desktop\Projects\LeaveManagementApplication\LeaveManagementApplication.web\obj\Debug\net8.0\ref\LeaveManagementApplication.web.dll
+c:\Users\jorda\Desktop\Projects\LeaveManagementApplication\LeaveManagementApplication.web\obj\Debug\net8.0\LeaveManagementApplication.web.sourcelink.json
